@@ -190,7 +190,7 @@ nav .fa-solid{
     line-height: 50px;
 }
 @media(max-width:700px){
-    .row{
+    .rows{
         flex-direction: column;
     }
     .course-col .fa-brands{
@@ -782,3 +782,9 @@ section .section-title {
     height: 120px;
     border-radius: 50%;
 }
+/* news aand evants */
+.grey-bg {  
+    background-color: #F5F7FA;
+}
+
+
