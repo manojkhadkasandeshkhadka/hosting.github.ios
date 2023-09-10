@@ -1,0 +1,35 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!--  1.write the xml document to maintain your friendlist of five people and solve the main conflex using Name Spacing.
+2.write xml document to store marks of five subject along with percentage, name and subject code solve the conflict using name spacing.
+ -->
+
+
+
+
+<f:friendlist xmlns:p="demo"xmlns:p2="demo"xmlns:p3="demo"xmlns:p4="demo"xmlns:p5="demo">
+<p:people>
+     <p:name>Gokarna</p:name>
+     <p:lastname>Gautam</p:lastname>
+</p:people>
+
+<p2:people>
+     <p2:name>Nagen</p2:name>
+     <p2:lastname>B Magar</p2:lastname>
+</p2:people>
+
+<p3:people>
+     <p3:name>Sandesh</p3:name>
+     <p3:lastname>Oli</p3:lastname>
+</p3:people>
+
+<p4:people>
+     <p4:name>Suman</p4:name>
+     <p4:lastname>Oli</p4:lastname>
+</p4:people>
+
+<p5:people>
+     <p5:name>Name</p5:name>
+     <p5:lastname>Gautam</p5:lastname>
+</p5:people>
+<:/friendlist> 
